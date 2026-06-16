@@ -1,2 +1,25 @@
-# 31e413df-pharmacy-drug-store-spreadsh
-Are manual spreadsheets and mental math causing inventory errors and lost profits at your pharmacy? This bundle automates everything from pricing to expiry tracking.  The Pharmacy &amp; Drug Store Spreadsheet Calculator Bundle eliminates costly miscalculations by providing pre-built formulas for retail pricing, dosage conversions, and stock reorder poi
+# Pharmacy & Drug Store Spreadsheet Calculator Bundle
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/5kQ4gzaDd7Eo8FG0Ved0p0M)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/5kQ4gzaDd7Eo8FG0Ved0p0M)
+
